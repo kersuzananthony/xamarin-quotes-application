@@ -8,7 +8,7 @@ namespace QuotesApplication
 		{
 			InitializeComponent();
 
-			MainPage = new QuotesApplicationPage();
+			MainPage = new QuotesPage();
 		}
 
 		protected override void OnStart()
